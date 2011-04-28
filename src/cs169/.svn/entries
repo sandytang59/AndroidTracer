@@ -1,0 +1,31 @@
+10
+
+dir
+63
+svn+ssh://ctang@174.129.31.68/projects/tracer/svnrepository/trunk/src/cs169
+svn+ssh://ctang@174.129.31.68/projects/tracer/svnrepository
+
+
+
+2011-04-23T10:34:01.305508Z
+63
+mdreibelbis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+beb983cb-414a-4ad9-b7a9-169738585835
+
+tracer
+dir
+
